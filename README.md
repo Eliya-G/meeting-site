@@ -1,6 +1,8 @@
 ![project_icon](https://drive.google.com/uc?export=view&id=1uG-7KOz_EodH9xmv7AzuqIbFsobVBX3e)
 
-This project is to demonstrate my abilities to make a fully featured website that's connected to a SQL database. For this site SQLite was chosen to make it portible enough to display on Github.
+This project is to demonstrate my abilities to make a fully featured website that's connected to a SQL database. This meeting planner site has all the tools to schedule meetings and choose the room to have them in. 
+
+For this site SQLite was chosen to make it portable enough to display on Github; though this can easily be integrated into on network SQL database.
 
 ## Running the Project
 
