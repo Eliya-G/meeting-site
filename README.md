@@ -14,3 +14,4 @@ pipenv install -r requirements.txt
 pipenv shell
 python3 manage.py runserver
 ```
+The final command opens a development server to view the site on your network.
