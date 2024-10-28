@@ -7,9 +7,14 @@ This project is to demonstrate my abilities to make a fully featured website tha
 ```
 git clone https://github.com/Eliya-G/meeting-site
 ```
-In the repo run these commands
+In the repo run these commands individually.
+
 ```
 pipenv install -r requirements.txt
+```
+```
 pipenv shell
+```
+```
 python3 manage.py runserver
 ```
