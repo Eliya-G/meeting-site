@@ -9,7 +9,7 @@ For this site SQLite was chosen to make it portable enough to display on Github;
 ```
 git clone https://github.com/Eliya-G/meeting-site
 ```
-In the repo run these commands.
+In the repo run these commands individually.
 
 ```
 pipenv install -r requirements.txt
