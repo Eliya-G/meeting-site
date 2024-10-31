@@ -1,4 +1,4 @@
-![project_icon](https://drive.google.com/uc?export=view&id=1uG-7KOz_EodH9xmv7AzuqIbFsobVBX3e)
+![project_icon](https://raw.githubusercontent.com/Eliya-G/meeting-site/refs/heads/main/.github_images/repo_icon.png)
 
 This project is to demonstrate my abilities to make a fully featured website that's connected to a SQL database. This meeting planner site has all the tools to schedule meetings and choose the room to have them in. 
 
